@@ -5,10 +5,10 @@ import time
 from selenium.common.exceptions import ElementClickInterceptedException
 #C:\Program Files (x86)\Google\ChromeApplication\chrome.exe
 #C:\Users\KARTHIKEYA\Downloads\chromedriver_win32\chromedriver.exe
-path = r"C:\Users\KARTHIKEYA\Downloads\chromedriver.exe"
-SIMILAR_ACCOUNT = 'telugu_love_beats143'
-USERNAME ='telugu_songs_8d'
-PASSWORD ='8dfocks@iiitn'
+path = r"C:\Users\KARTHIKEYA\Downloads\chromedriver.exe"#add your path
+SIMILAR_ACCOUNT = 'similar account'#edit name of similar account
+USERNAME =' ' #<your account> enter your account in  " "
+PASSWORD =' '#<   PASSWORD  >
 
 
 class InstaFollower:
